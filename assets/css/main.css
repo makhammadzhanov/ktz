@@ -1,0 +1,11 @@
+ul.collapse, ul.collapsing {
+    margin-left: 1rem;
+}
+
+ul.collapse li, ul.collapsing li {
+    border-top: none;
+}
+
+.form_buttons {
+    justify-content: space-between;
+}
